@@ -38,6 +38,33 @@
       "logo": ""
     },
     {
+      "name": "18+",
+      "type": 0,
+      "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "epg": "",
+      "logo": ""
+    },
+    {
+      "name": "18+2",
+      "type": 0,
+      "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+千部独家传媒无水印来袭tvlist.txt",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "epg": "",
+      "logo": ""
+    },
+    {
+      "name": "18+3",
+      "type": 0,
+      "url": "https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "epg": "",
+      "logo": ""
+    },
+    {
       "name": "adult",
       "type": 0,
       "url": "https://ghfast.top/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult.txt",
