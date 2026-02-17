@@ -1,0 +1,116 @@
+{
+  "urls": [
+    {
+      "url": "http://www.饭太硬.com/tv",
+      "name": "饭太硬"
+    },
+    {
+      "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp",
+      "name": "饭太硬（备用）"
+    },
+    {
+      "url": "https://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json",
+      "name": "小米(吆零貳叁捌壹肆漆)"
+    },
+    {
+      "url": "http://hello.肥猫.com",
+      "name": "肥猫"
+    },
+    {
+      "url": "http://rihou.cc:88/demo.php",
+      "name": "Vox"
+    },
+    {
+      "url": "http://cdn.qiaoji8.com/tvbox.json",
+      "name": "巧记"
+    },
+    {
+      "url": "https://9280.kstore.vip/newwex.json",
+      "name": "王二小"
+    },
+    {
+      "url": "http://ok321.top/ok",
+      "name": "OK(六叁伍六吆玖伍漆玖)"
+    },
+    {
+      "url": "https://gitee.com/qihaoyyds/qihao/raw/master/本地包.zip",
+      "name": "柒豪本地(复制到浏览器打开，进行下载)(伍吆吆捌漆叁五捌肆)"
+    },
+    {
+      "url": "https://9877.kstore.space/AnotherD/api.json",
+      "name": "潇洒(捌叁伍叁六肆漆六伍)"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.com",
+      "name": "摸鱼儿"
+    },
+    {
+      "url": "http://hb.小虎斑.site:25252/仅供测试",
+      "name": "小虎斑(漆貳叁捌貳貳玖伍貳)"
+    },
+    {
+      "url": "https://xn--anna-wn6lw489o.v.nxog.top/m",
+      "name": "欧歌"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+      "name": "南风"
+    },
+    {
+      "url": "https://52xiaobai.cn/ceshi/tvbox.php",
+      "name": "尘墨(吆零漆漆零漆叁吆肆肆)"
+    },
+    {
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2",
+      "name": "裤佬"
+    },
+    {
+      "url": "https://天神iy.mc.hi.cn/天神IY.json",
+      "name": "天神"
+    },
+    {
+      "url": "http://年年幸福.icu/tgyg/fgscs.json",
+      "name": "幸福年年"
+    },
+    {
+      "url": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "夏夜(漆捌叁吆吆六叁伍零)"
+    },
+    {
+      "url": "http://nn.4688888.xyz/common.json",
+      "name": "牛马(六肆捌吆叁漆叁伍叁)"
+    },
+    {
+      "url": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "林中小屋(吆零叁叁壹壹漆玖伍捌)"
+    },
+    {
+      "name": "青龙1080",
+      "url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json"
+    },
+    {
+      "name": "青龙4K",
+      "url": "https://gitee.com/yiwu369/6758/raw/master/青龙/2.json"
+    },
+    {
+      "name": "白虎",
+      "url": "https://gitee.com/yiwu369/6758/raw/master/白虎/白虎.json"
+    },
+    {
+      "name": "🐮王二小",
+      "url": "http://tvbox.王二小放牛娃.top"
+    },
+    {
+      "url": "http://z.qiqiv.cn/123",
+      "name": "奇奇仓(直接复制另用)"
+    },
+    {
+      "url": "https://wget.la/https://github.com/2124662895/2026cbdva/blob/main/xfnn.json",
+      "name": "年年仓(直接复制另用)"
+    },
+    {
+      "url": "https://17264.kstore.space/哈基米.png",
+      "name": "哈基米乱炖"
+    }
+  ]
+}
