@@ -5,7 +5,7 @@
       "name": "哈基米乱炖"
     },
     {
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/adult.json",
       "name": "18Plus"
     },
     {
